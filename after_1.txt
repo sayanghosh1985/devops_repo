@@ -1,18 +1,15 @@
-<<<<<<< HEAD
 o
 
 HELLO
 
-<<<<<<< HEAD
-=======
 
 THIS IS SECOND USER
 
 
-THIS IS THIRD TIME
->>>>>>> b5e5730 (from second user)
-=======
 
-WHAT???
 
->>>>>>> e04dd185b96b02b5e9049ee456c3607f9fd02a42
+
+
+
+
+sjhskjhajshjkhSJKSHjhaSHJASHJ
