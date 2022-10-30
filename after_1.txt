@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 o
 
 HELLO
 
+=======
+
+THIS IS SECOND USER
+
+
+THIS IS THIRD TIME
+>>>>>>> b5e5730 (from second user)
